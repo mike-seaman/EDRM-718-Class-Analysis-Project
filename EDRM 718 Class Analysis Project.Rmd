@@ -1,0 +1,18 @@
+---
+title: "EDRM 718 Class Analysis Project"
+output: html_notebook
+---
+
+## Introduction
+
+The reports that follow are based on analyses by students in the spring 2019 
+section of EDRM 718 at the University of South Carolina.
+
+```{r, include = FALSE}
+
+library(tidyverse)
+
+hsb2 <- read_csv("hsb2.csv")
+
+```
+
