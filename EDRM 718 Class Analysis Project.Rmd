@@ -16,3 +16,6 @@ hsb2 <- read_csv("hsb2.csv")
 
 ```
 
+## My New Section
+
+Here it is!
